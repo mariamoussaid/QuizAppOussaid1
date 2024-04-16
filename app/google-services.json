@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834401079203",
+    "project_id": "quizappoussaid",
+    "storage_bucket": "quizappoussaid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834401079203:android:7f0073f03cdc1f88465416",
+        "android_client_info": {
+          "package_name": "com.example.QuizAppOussaid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB-nC_8agRWvNgsDXAP_m32mHY2FAzlEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
